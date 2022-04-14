@@ -1,0 +1,100 @@
+h1 {
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+
+#our-brands {
+    height: 400px;
+    width: 95%;
+    display: flex;
+    margin: auto;
+
+}
+#our-brands a {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+#about a {
+    text-decoration: none;
+}
+.box {
+    height: 90%;
+    width: 18%;
+    margin:auto;
+    text-align: center;
+
+}
+#input {
+    display: flex;
+    background-color: #545871;
+    color: white;
+    font-size: .8125rem;
+    font-weight: 700px;
+    position: relative;
+    width: 100%;
+    padding-top: 7px;
+}
+.form{
+    margin: 5px 0;
+    margin-left: 10px;
+    
+}
+.button{
+    margin: 5px 0;
+}
+#link {
+    text-align:left;
+    font-size: .85em;
+    margin: 5px 0;
+    color: white;
+}
+#about {
+    background-color: #545871;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin: 0;
+    display: flex;
+}
+
+.social-media {
+    float: right;
+    position: relative;
+    right: -42ex;
+    margin-bottom:0em;
+}
+
+#footer-awards {
+    width: 100%;
+    border-top: solid #dadbe6;;
+    display: flex;
+    justify-content: center;
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 4px 0px inset;
+}
+#down-img {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    box-shadow: rgba(27, 31, 35, 0.04) 0px 1px 0px, rgba(255, 255, 255, 0.25) 0px 1px 0px inset;
+}
+
+.fles-item {
+    margin-top: 20px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    margin-bottom: 30px;
+}
+
+.copyright {
+    font-size: .6875rem;
+    margin: 0 10px;
+    width: 85%;
+    float: left;
+}
+
+.policy {
+    font-size: 0.6875rem;
+    margin: 0 10px;
+    float: left;
+    width: 85%;
+}
